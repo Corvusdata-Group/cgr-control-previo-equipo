@@ -1,0 +1,9 @@
+# Detalle de reglas
+
+Un archivo por regla: `R-05.md` … `R-10.md`. Formato:
+
+    # R-NN · Nombre de la regla
+    **Severidad:** Bloqueante | Advertencia
+    **Descripción:** …
+    **Verificación:** …
+    **Responsable:** …
