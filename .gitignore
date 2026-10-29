@@ -1,0 +1,12 @@
+# Credenciales y configuración local
+.env
+config/*.local.ini
+
+# Respaldos y extracciones de datos
+*.bak
+datos/
+
+# Editores y sistema operativo
+.vs/
+.vscode/
+Thumbs.db
